@@ -65,9 +65,9 @@ gitalk:
   clientID: 96ed5d652c970ba9fcb3                            #生成的clientID
   clientSecret: f1ecdd3c6ec2f91d4abd655e94aebf98298e538d    #生成的clientSecret
   repo: chenhuaicong.github.io    #仓库名称
-  owner: chenhuaicong    #github用户名
-  admin: chenhuaicong
-   id: 'window.location.pathname' #页面的唯一标识，gitalk 会根据这个标识自动创建的issue的标签,我们使用页面的相对路径作为标识
+  owner: Peterchen   #github用户名
+  admin: Peterchen
+  id: 'window.location.pathname' #页面的唯一标识，gitalk 会根据这个标识自动创建的issue的标签,我们使用页面的相对路径作为标识
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
