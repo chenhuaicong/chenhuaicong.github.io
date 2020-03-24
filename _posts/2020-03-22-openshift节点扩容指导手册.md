@@ -1,4 +1,17 @@
-# openshift节点扩容指导手册
+---
+layout:     post   				    # 使用的布局（不需要改）
+title:      openshift节点扩容指导手册 				# 标题 
+subtitle:   openshift, k8s #副标题
+date:       2020-03-22 				# 时间
+author:     chenhuaicong 						# 作者
+header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:								#标签
+    - openshift
+    - k8s
+---
+
+
 ## 初始化配置
 ### 1.配置hosts，并同步到所有节点，并重启dnsmasq
 ```
